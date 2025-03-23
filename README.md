@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <img src="https://user-images.githubusercontent.com/62269745/174906065-7bb63e14-879a-4740-849c-0821697aeec2.png#gh-light-mode-only" width="40%">
     <img src="https://user-images.githubusercontent.com/62269745/174906068-aad23112-20fe-4ec8-877f-3ee1d9ec0a69.png#gh-dark-mode-only" width="40%">
@@ -38,3 +39,7 @@ Contributions are welcome! See the specific README files in the `frontend/` and 
 ## Snapshots
 
 <img src="./Frontend/src/assets/home-snapshot.png" alt="home page"/>
+=======
+# cloud-engineering-docker-assesement
+Cloud Engineering Pathway Assessment - 3-tier application containerization
+>>>>>>> c897159caba629a9029612e44e94b4f1ab7a8222
